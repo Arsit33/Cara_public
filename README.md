@@ -18,28 +18,28 @@
 
 ## ✨ Highlights
 
--   Fully Modular Design
+-   Fully Modular Designed bot
 -   Object Oriented
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Self-Restoring Auth
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
-    WhatsApp Library Out There)
+    WhatsApp Library Out There.. 
 
 ## 💻 Deploy/Hosting Guide
 
--   Section Moved to
+-   Section Moved to.. 👇
     [Cara-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
--   To view all features, click
+-   To view all features, click👇
     here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
 
 ## 💪 Contribution
 
 -   Feel free to open issues regarding any problems or if you have any feature requests
 -   Make sure to follow the ESLint Rules while editing the code and run
-    `yarn run prettier-format` before opening PRs
+    `yarn run prettier-format` before opening Prs
 
 ### 🟢 WhatsApp Group
 
@@ -51,5 +51,5 @@ Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
 for more information.
 
 ## 🎗Help
-Please give this repo a star if you like the bot
+Please give this repo a star if you like the bot.. 
  
