@@ -51,5 +51,5 @@ Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
 for more information.
 
 ## 🎗Help
-Please give this repo a star if you like the bot.. 
+Please give this repo a star if you like the bot.. 🐆🍳
  
