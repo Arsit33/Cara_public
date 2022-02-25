@@ -7,7 +7,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Kapish3/Cara_public)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Arsit33/Cara_public)
 
 </div>
 <div align="center">
